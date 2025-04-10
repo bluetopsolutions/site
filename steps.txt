@@ -1,0 +1,3 @@
+generate icons
+register name at app connect
+
